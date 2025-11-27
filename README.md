@@ -19,7 +19,7 @@ This repository contains all code used in the manuscript:
 ### California Housing (Regression)
 - APBMS_californiahouse.py
 - swarm_californiahousing.py
-- 
+  
 ## Reproducibility
 Please refer to the Appendix of the paper for full hyperparameters, 
 data partitioning pseudocode, and experimental methodology.
